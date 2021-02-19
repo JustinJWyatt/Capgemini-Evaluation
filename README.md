@@ -1,1 +1,3 @@
 # Capgemini-Evaluation
+
+I chose to do a console app since the exercise is simple enough for it to be functional and not critically interactive. I could write an API endpoint for this using ASP.NET Core and configure WebAPI as a service in the Startup class, but all I would have is one endpoint. Additionally, I don't find room to use asynchronous code for this step in the example. I could be proven wrong. I'm ready to submit it as is and wait for the second part of the test for further instructions. I did make a remote branch in preparation for a ASP.NET Core project in addition to the console project.
